@@ -6,8 +6,8 @@
         "Mountains": "Ya Ha Tinda",
         "Trips": 18,
         "URL": "https://www.spectacularmountains.com/canada/ya-ha-tinda/",
-        "Image": "A big, empty area with many smaller and little-known Front Range peaks. Devoid of people, but full of opportunities to explore,. ",
-        "Description": "One of my favourite areas in the Rockies that doesn't see many visitors. "
+        "Image": "https://www.spectacularmountains.com/wp-content/uploads/2016/03/Maze_Featured_COR_7545_small2-1024x678.jpg",
+        "Description": "One of my favourite areas in the Rockies that doesn't see many visitors."
       },
       "geometry": {
         "coordinates": [
@@ -1372,7 +1372,7 @@
         "Name": "Upper Clearwater-Ram",
         "Trips": 4,
         "URL": "https://www.spectacularmountains.com/canada/ram/",
-        "Description": "A big, empty area with many smaller and little-known Front Range peaks. Devoid of people, but full of opportunities to explore,. ",
+        "Description": "A big, empty area with many smaller and little-known Front Range peaks. Devoid of people, but full of opportunities to explore.",
         "Image": "https://www.spectacularmountains.com/wp-content/uploads/2017/02/Ram_COR_0207.jpg"
       },
       "geometry": {
