@@ -6,7 +6,7 @@
         "Mountains": "Ya Ha Tinda",
         "Trips": 18,
         "URL": "https://www.spectacularmountains.com/canada/ya-ha-tinda/",
-        "Image": "http://www.spectacularmountains.com/wp-content/uploads/2017/05/Hat-Mountain_COR_0973.jpg",
+        "Image": "A big, empty area with many smaller and little-known Front Range peaks. Devoid of people, but full of opportunities to explore,. ",
         "Description": "One of my favourite areas in the Rockies that doesn't see many visitors. "
       },
       "geometry": {
@@ -1215,7 +1215,7 @@
       "properties": {
         "Name": "Fairholme Range",
         "Trips": 12,
-        "Image": "https://www.spectacularmountains.com/wp-content/uploads/2017/12/Temple_COR_2592.jpg",
+        "Image": "https://www.spectacularmountains.com/wp-content/uploads/2017/12/MythicEpic_IMG_2776_edited.jpg",
         "Description": "Countless opportunities for entertaining hikes and scrambles, both  on popular trails and in the middle of nowhere.",
         "URL": "https://www.spectacularmountains.com/canada/fairholme-range/"
       },
@@ -1372,7 +1372,8 @@
         "Name": "Upper Clearwater-Ram",
         "Trips": 4,
         "URL": "https://www.spectacularmountains.com/canada/ram/",
-        "Description": "A big, empty area with many smaller and little-known Front Range peaks. Devoid of people, but full of opportunities to explore,. "
+        "Description": "A big, empty area with many smaller and little-known Front Range peaks. Devoid of people, but full of opportunities to explore,. ",
+        "Image": "https://www.spectacularmountains.com/wp-content/uploads/2017/02/Ram_COR_0207.jpg"
       },
       "geometry": {
         "coordinates": [
